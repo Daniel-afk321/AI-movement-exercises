@@ -48,6 +48,8 @@ Distribuição: https://github.com/Daniel-afk321/AI-movement-exercises
 
 Distribuição YOUTUBE mostrando Game: https://www.youtube.com/watch?v=dNcIYuoigdo
 
+Distribuição YOUTUBE mostrando exercícios de IA: https://www.youtube.com/watch?v=8lIGhbb-tqk
+
 Pré-requisitos ⚠️
 
 Computador com Windows;
@@ -65,10 +67,6 @@ Linguagens, dependencias e libs utilizadas 📚
 ♠ Unity Engine
 
 ♠ C#
-
-Resolvendo Problemas
-
-Recursos de inseridos 🧰
 
 Assets utilizados:
 
@@ -91,6 +89,10 @@ https://assetstore.unity.com/packages/3d/characters/animals/birds/egypt-pack-eag
 ♣ (Musica do Game)
 
 https://www.youtube.com/watch?v=jZ7a1yPaJh0
+
+Resolvendo Problemas
+
+Recursos de inseridos 🧰
 
 Desenvolvedores/Contribuintes:
 
