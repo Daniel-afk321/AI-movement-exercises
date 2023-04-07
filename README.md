@@ -73,17 +73,23 @@ Recursos de inseridos 🧰
 Assets utilizados:
 
 ♣ (Gema)
+
 https://assetstore.unity.com/packages/3d/props/simple-gems-ultimate-animated-customizable-pack-73764
 
 ♣ (Player)
+
 https://assetstore.unity.com/packages/3d/characters/animals/dog-knight-pbr-polyart-135227
 
 ♣ (Mapa)
+
 https://assetstore.unity.com/packages/3d/environments/landscapes/simple-low-poly-nature-pack-157552
 
 ♣ (Inimigo)
+
 https://assetstore.unity.com/packages/3d/characters/animals/birds/egypt-pack-eagle-140079
+
 ♣ (Musica do Game)
+
 https://www.youtube.com/watch?v=jZ7a1yPaJh0
 
 Desenvolvedores/Contribuintes:
