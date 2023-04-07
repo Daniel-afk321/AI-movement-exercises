@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E06FF7CE-015A-D8DE-23FB-C36EB1809659}</ProjectGuid>
+    <ProjectGuid>{5D65519A-B164-65A1-001A-68CB4C542243}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,18 +58,18 @@
   <ItemGroup>
     <Compile Include="Assets\EgyptMonsters\Scripts\DemoController.cs" />
     <Compile Include="Assets\Jogo\Movimentaçao\Movimenta.cs" />
+    <Compile Include="Assets\AurynSky\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
     <Compile Include="Assets\exer4\exer4.cs" />
     <Compile Include="Assets\EgyptMonsters\Scripts\DestroyMe.cs" />
+    <Compile Include="Assets\Jogo\Coin\Coin.cs" />
+    <Compile Include="Assets\Jogo\gameover\gameover.cs" />
     <Compile Include="Assets\exer3\Move.cs" />
+    <Compile Include="Assets\Jogo\Movimentaçao\testMove.cs" />
     <Compile Include="Assets\exer1\exer1.cs" />
+    <Compile Include="Assets\Jogo\scene\Menu\script\Menu.cs" />
     <Compile Include="Assets\exer4\Waypoint.cs" />
     <Compile Include="Assets\exer2\exer2.cs" />
     <Compile Include="Assets\EgyptMonsters\Scripts\DealDamageComponent.cs" />
-    <Compile Include="Assets\AurynSky\Gems Ultimate Pack\Scripts\AnimationScript.cs" />
-    <Compile Include="Assets\Jogo\gameover\gameover.cs" />
-    <Compile Include="Assets\Jogo\Coin\Coin.cs" />
-    <Compile Include="Assets\Jogo\Movimentaçao\testMove.cs" />
-    <Compile Include="Assets\Jogo\scene\Menu\script\Menu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\EgyptMonsters\Demo\DemoAssets\Shaders\GrassAnimate.shader" />
@@ -646,8 +646,14 @@
     <Reference Include="System.Xml.Serialization">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.30f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
@@ -675,12 +681,6 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Cinemachine">
-      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
