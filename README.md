@@ -46,7 +46,7 @@ Funcionalidades ⚙️
 
 Distribuição: https://github.com/Daniel-afk321/AI-movement-exercises
 
-Distribuição YOUTUBE: https://www.youtube.com/watch?v=dNcIYuoigdo
+Distribuição YOUTUBE mostrando Game: https://www.youtube.com/watch?v=dNcIYuoigdo
 
 Pré-requisitos ⚠️
 
