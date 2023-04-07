@@ -83,6 +83,8 @@ https://assetstore.unity.com/packages/3d/environments/landscapes/simple-low-poly
 
 ♣ (Inimigo)
 https://assetstore.unity.com/packages/3d/characters/animals/birds/egypt-pack-eagle-140079
+♣ (Musica do Game)
+https://www.youtube.com/watch?v=jZ7a1yPaJh0
 
 Desenvolvedores/Contribuintes:
 
