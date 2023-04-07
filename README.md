@@ -44,7 +44,9 @@ Funcionalidades ⚙️
 
 ✔️ Mini game onde o player deve fazer parkour e chegar no final antes de ser pego pelos inimigos.
 
-Distribuição https://github.com/Daniel-afk321/AI-movement-exercises
+Distribuição: https://github.com/Daniel-afk321/AI-movement-exercises
+
+Distribuição YOUTUBE: https://www.youtube.com/watch?v=dNcIYuoigdo
 
 Pré-requisitos ⚠️
 
