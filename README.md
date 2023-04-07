@@ -40,7 +40,7 @@ Descrição do projeto
 
 Funcionalidades ⚙️
 
-✔️ Inteligência Artificial com cubos;
+✔️ Inteligência Artificial.
 
 ✔️ Mini game onde o player deve fazer parkour e chegar no final antes de ser pego pelos inimigos.
 
